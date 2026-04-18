@@ -229,7 +229,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // Typing Effect
   function typeWriterEffect() {
     const title = document.getElementById("msg-title");
-    const text = "Happy Birthday, Adindaaaa! 🎂✨";
+    const text = "Happy Birthday, Aprilia Husna! 🎂✨";
     let index = 0;
     title.classList.add("typing");
 
